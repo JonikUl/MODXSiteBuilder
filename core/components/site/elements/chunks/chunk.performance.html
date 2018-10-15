@@ -1,0 +1,7 @@
+{if $_modx->hasSessionContext('mgr')}
+  {set $info = $_modx->getInfo('', false)}
+  Время работы: {$info.totalTime}<br>
+  Время запросов: {$info.totalTime}<br>
+  Количество запросов: {$info.queries}<br>
+  Источник: {$info.source}<br>
+{/if}
