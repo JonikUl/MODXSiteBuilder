@@ -54,7 +54,7 @@ $addons = array(
 );
 
 /* Указываем имя стартера и версию */
-$builder = new siteBuilder('MODXStarterBuild', '1.0.1', 'rc', $resolvers, $addons);
+$builder = new siteBuilder('MODXSiteBuilder', '1.0.1', 'rc', $resolvers, $addons);
 
 /* Начинаем сборку */
 $builder->build();
