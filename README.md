@@ -90,4 +90,5 @@
 	<li><strong>friendly_urls</strong>: Использовать ЧПУ-псевдоним - <strong>Да</strong></li>
 	<li><strong>friendly_urls</strong>: Использовать ЧПУ-псевдоним - <strong>Да</strong></li>
 </ul>
-[GitHub Pages](https://pages.github.com/)
+
+[I'm an inline-style link](https://www.google.com)
