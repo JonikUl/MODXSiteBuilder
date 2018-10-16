@@ -84,7 +84,7 @@
 	<li><strong>hidemenu_default</strong>: Скрыть документ из меню по умолчанию - <strong>Да</strong></li>
 	<li><strong>publish_default</strong>: Публиковать по умолчанию - <strong>Нет</strong></li>
 	<li><strong>use_alias_path</strong>: Использовать вложенные URL - <strong>Да</strong></li>
-	<li><strong>friendly_alias_restrict_chars_pattern</strong>: Шаблон для фильтрации символов в псевдонимах - [Используется регулярное выражение от Ильи Уткина](https://github.com/ilyautkin/siteExtra/blob/master/core/components/site/docs/friendly_alias_restrict_chars_pattern.txt)</li>
+	<li><strong>friendly_alias_restrict_chars_pattern</strong>: Шаблон для фильтрации символов в псевдонимах [Используется регулярное выражение от Ильи Уткина](https://github.com/ilyautkin/siteExtra/blob/master/core/components/site/docs/friendly_alias_restrict_chars_pattern.txt)</li>
 	<li><strong>friendly_urls</strong>: Использовать ЧПУ-псевдоним - <strong>Да</strong></li>
 	<li><strong>friendly_urls</strong>: Использовать ЧПУ-псевдоним - <strong>Да</strong></li>
 	<li><strong>friendly_urls</strong>: Использовать ЧПУ-псевдоним - <strong>Да</strong></li>
