@@ -11,7 +11,7 @@
 
 <h3>Компоненты из репозитория modx.com/extras/</h3>
 <ul>
-	<li><strong>translit</strong>: Перед началом работы со стартером, проверяем обновления компонентов;</li>
-	<li><strong>TinyMCE Rich Text Editor</strong>: Устанавливаем обновления, если таковые имеются;</li>
-	<li><strong>FormIt</strong>: Устанавливаем Node компоненты;</li>
+	<li><strong>translit</strong>: Компонент транслитерации псевдонимов в MODX;</li>
+	<li><strong>TinyMCE Rich Text Editor</strong>: Визуальный редактор MODX на основе TinyMCE 4;</li>
+	<li><strong>FormIt</strong>: Компонент который позволяет строить динамические формы;</li>
 </ul>
