@@ -91,4 +91,4 @@
 	<li><strong>friendly_urls</strong>: Использовать ЧПУ-псевдоним - <strong>Да</strong></li>
 </ul>
 
-[I'm an inline-style link](https://www.google.com)
+[Используется регулярное выражение от Ильи Уткина](https://github.com/ilyautkin/siteExtra/blob/master/core/components/site/docs/friendly_alias_restrict_chars_pattern.txt)
