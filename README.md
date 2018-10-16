@@ -73,14 +73,21 @@
 <h2>Настройки:</h2>
 <p>Билдер устанавливает следующие настройки:</p>
 <h4>Системные настройки в MODX:</h4>
-| Tables        | Are          | Cool  |
-| ------------- |:-------------|: -----:|
-| allow_multiple_emails      | Разрешить пользователям использовать одинаковые E-Mail адреса	| Нет |
-| col 2 is      | centered     |   $12 |
-| zebra stripes | are neat     |    $1 |
+
 <ul>
-	<li><strong>allow_multiple_emails</strong>: Разрешить пользователям использовать одинаковые E-Mail адреса - [ ] Нет</li>
-	<li><strong>correctMonth</strong>: Форматирование правильного склонения месяца;</li>
-	<li><strong>dateRU</strong>: Перевод месяцев и дней с английского на русский для постов;</li>
+	<li><strong>allow_multiple_emails</strong>: Разрешить пользователям использовать одинаковые E-Mail адреса - <strong>Нет</strong></li>
+	<li><strong>friendly_alias_realtime</strong>: Создавать ЧПУ-псевдоним в реальном времени - <strong>Да</strong></li>
+	<li><strong>friendly_urls</strong>: Использовать ЧПУ-псевдоним - <strong>Да</strong></li>
+	<li><strong>friendly_urls_strict</strong>: Использовать ЧПУ-псевдоним - <strong>Да</strong></li>
+	<li><strong>friendly_urls</strong>: Использовать ЧПУ-псевдоним - <strong>Да</strong></li>
+	<li><strong>friendly_urls</strong>: Строгий режим дружественных URL - <strong>Да</strong></li>
+	<li><strong>hidemenu_default</strong>: Скрыть документ из меню по умолчанию - <strong>Да</strong></li>
+	<li><strong>publish_default</strong>: Публиковать по умолчанию - <strong>Нет</strong></li>
+	<li><strong>use_alias_path</strong>: Использовать вложенные URL - <strong>Да</strong></li>
+	<li><strong>friendly_alias_restrict_chars_pattern</strong>: Шаблон для фильтрации символов в псевдонимах - <strong>[Используется регулярное выражение от Ильи Уткина](https://github.com/ilyautkin/siteExtra/blob/master/core/components/site/docs/friendly_alias_restrict_chars_pattern.txt)</strong></li>
+	<li><strong>friendly_urls</strong>: Использовать ЧПУ-псевдоним - <strong>Да</strong></li>
+	<li><strong>friendly_urls</strong>: Использовать ЧПУ-псевдоним - <strong>Да</strong></li>
+	<li><strong>friendly_urls</strong>: Использовать ЧПУ-псевдоним - <strong>Да</strong></li>
+	<li><strong>friendly_urls</strong>: Использовать ЧПУ-псевдоним - <strong>Да</strong></li>
 </ul>
 - [ ] This is an incomplete item
