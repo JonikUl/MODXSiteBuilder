@@ -90,4 +90,4 @@
 	<li><strong>friendly_urls</strong>: Использовать ЧПУ-псевдоним - <strong>Да</strong></li>
 	<li><strong>friendly_urls</strong>: Использовать ЧПУ-псевдоним - <strong>Да</strong></li>
 </ul>
-- [ ] This is an incomplete item
+[GitHub Pages](https://pages.github.com/)
