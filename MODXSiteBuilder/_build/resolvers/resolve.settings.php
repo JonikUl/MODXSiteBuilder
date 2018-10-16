@@ -386,7 +386,7 @@ switch ($options[xPDOTransport::PACKAGE_ACTION]) {
         /*
         * Plugin TinyMCE Rich Text Editor settings
         * 1. Вставить как текст: Да
-        * 2. Путь к кастомному файлу external-config.jpon: ../assets/components/modxstarterbuild/tinymcerte/js/external-config.json
+        * 2. Путь к кастомному файлу external-config.json: ../assets/components/modxstarterbuild/tinymcerte/js/external-config.json
         * 3. Активируем все нужные плагины
         * 4. Устанавливаем тему lightgray для TinyMCERTE
         * 5. Настраиваем Панель инструментов 1
@@ -408,7 +408,7 @@ switch ($options[xPDOTransport::PACKAGE_ACTION]) {
             $tmp->save();
         }
 
-        // Путь к кастомному файлу external-config.jpon: ../assets/components/modxstarterbuild/tinymcerte/js/external-config.json
+        // Путь к кастомному файлу external-config.json: ../assets/components/modxstarterbuild/tinymcerte/js/external-config.json
         if (in_array('TinyMCE Rich Text Editor', $options['install_addons'])) {
             if (!$tmp = $modx->getObject('modSystemSetting', array('key' => 'tinymcerte.external_config'))) {
                 $tmp = $modx->newObject('modSystemSetting');
