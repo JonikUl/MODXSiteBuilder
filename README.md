@@ -100,7 +100,6 @@
 <ul>
 	<li><strong>pdotools_fenom_parser</strong>: Использовать Fenom на страницах - <strong>Да</strong></li>
 	<li><strong>pdotools_fenom_php</strong>: Разрешить PHP в Fenom - <strong>Да</strong></li>
-	<li><strong>friendly_urls</strong>: Использовать ЧПУ-псевдоним - <strong>Да</strong></li>
 </ul>
 
 <h4>Системные настройки в Ace:</h4>
@@ -113,7 +112,7 @@
 <h4>Системные настройки в TinyMCE Rich Text Editor:</h4>
 <ul>
 	<li><strong>tinymcerte.paste_as_text</strong>: Вставить как текст - <strong>Да</strong></li>
-	<li><strong>tinymcerte.external_config</strong>: Путь к кастомному файлу external-config.jpon - <strong>../assets/components/modxstarterbuild/tinymcerte/js/external-config.json</strong></li>
+	<li><strong>tinymcerte.external_config</strong>: Путь к кастомному файлу external-config.json - <strong>../assets/components/modxstarterbuild/tinymcerte/js/external-config.json</strong></li>
 	<li><strong>tinymcerte.plugins</strong>: Активируем все нужные плагины - <strong>print preview searchreplace autolink directionality visualblocks visualchars fullscreen image link media template codesample table charmap hr pagebreak nonbreaking anchor toc insertdatetime advlist lists textcolor wordcount imagetools contextmenu colorpicker textpattern modximage modxlink code paste spellchecker typograf</strong></li>
 	<li><strong>tinymcerte.skin</strong>: Устанавливаем тему lightgray для TinyMCERTE - <strong>lightgray</strong></li>
 	<li><strong>tinymcerte.toolbar1</strong>: Настраиваем Панель инструментов 1 - <strong>undo redo | formatselect fontsizeselect  | bold italic strikethrough forecolor backcolor removeformat | alignleft aligncenter alignright alignjustify  | numlist bullist outdent indent</strong></li>
