@@ -14,4 +14,6 @@
 	<li><strong>translit</strong>: Компонент транслитерации псевдонимов в MODX;</li>
 	<li><strong>TinyMCE Rich Text Editor</strong>: Визуальный редактор MODX на основе TinyMCE 4;</li>
 	<li><strong>FormIt</strong>: Компонент который позволяет строить динамические формы;</li>
+	<li><strong>simpleUpdater</strong>: Компонент добавляет в раздел «Приложения» пункт «Обновить MODX», в котором вы можете провести апгрейд системы всего одной кнопкой;</li>
+	<li><strong>BackupMODX</strong>: Компонент позволяет одной кнопкой делать Backup как базы данных, так и всего сайта;</li>
 </ul>
