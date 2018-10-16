@@ -78,3 +78,4 @@
 	<li><strong>correctMonth</strong>: Форматирование правильного склонения месяца;</li>
 	<li><strong>dateRU</strong>: Перевод месяцев и дней с английского на русский для постов;</li>
 </ul>
+- [ ] This is an incomplete item
